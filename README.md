@@ -1,7 +1,7 @@
 # PLUTO
 基于PLUTO软件无线电设备,利用通信原理知识完成FM调制与QPSK调制相结合的通信系统设计。
 
-详情可了解<a href='https://www.bilibili.com/video/BV12G4y1m7mY/?spm_id_from=333.999.0.0&vd_source=a24c565b3a8dffe05e6d6502dbb5f36a'>基于PLUTO的通信系统开发-Bilibili</a>。
+详情可了解<a href='https://www.bilibili.com/video/BV1oP411Z7hP/?spm_id_from=333.999.0.0&vd_source=a24c565b3a8dffe05e6d6502dbb5f36a'>基于PLUTO的通信系统开发-Bilibili</a>。
 
 功能一：FM广播
 
